@@ -1,0 +1,133 @@
+/***************TAG SELECTORS***************/
+body {
+    margin: 0;
+    text-align: center;
+    color: #40514E;
+    font-family: 'Karma', serif;
+    font-size: 1.125rem;
+}
+h1 {
+    color: #5E6073;
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+}
+h2 {
+    color: #89A3B2;
+    font-family: 'Dosis', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3 {
+    color: #5E6073;
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.5625rem;
+}
+hr {
+    border-color: #B2D3BE;
+    border-style: dotted none none;
+    border-width: 7px;
+    margin: 100px auto;
+    width: 4%;
+}
+p {
+    line-height: 2;
+}
+a {
+    color: #5E6073;
+    font-family: 'Dosis', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: #89A3B2;
+}
+/***************CLASS SELECTORS***************/
+.top-container {
+    background-color: #F2F4D1;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container {
+    margin: 100px 0;
+}
+.bottom-container {
+    background-color: #F2F4D1;
+    padding: 50px 0 20px;
+}
+.attribution {
+    font-size: .75rem;
+}
+.attribution-header {
+    color: #89A3B2;
+    font-size: .75rem;
+    margin: 24px auto 0 auto;
+}
+.bio {
+    margin: auto;
+    width: 30%;
+}
+.skill-row {
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+.football {
+    margin: 40px auto 60px;
+    width: 40%;
+}
+.btn {
+    background: #B2D3BE;
+    background-image: -webkit-linear-gradient(top, #B2D3BE, #76917f);
+    background-image: -moz-linear-gradient(top, #B2D3BE, #76917f);
+    background-image: -ms-linear-gradient(top, #B2D3BE, #76917f);
+    background-image: -o-linear-gradient(top, #B2D3BE, #76917f);
+    background-image: linear-gradient(to bottom, #B2D3BE, #76917f);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Dosis', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #b5d5e6;
+    background-image: -webkit-linear-gradient(top, #b5d5e6, #89A3B2);
+    background-image: -moz-linear-gradient(top, #b5d5e6, #89A3B2);
+    background-image: -ms-linear-gradient(top, #b5d5e6, #89A3B2);
+    background-image: -o-linear-gradient(top, #b5d5e6, #89A3B2);
+    background-image: linear-gradient(to bottom, #b5d5e6, #89A3B2);
+    text-decoration: none;
+  }
+.footer-link {
+    font-size: 1.4rem;
+}
+.copyright {
+    color: #89A3B2;
+    font-size: .875rem;
+    padding: 20px 0;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.top-cloud {
+    position: absolute;
+    top: 40px;
+    right: 300px;
+}
+.process-img {
+    float: left;
+    margin-right: 30px;
+    width: 25%;
+}
+.mac-img {
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+}
